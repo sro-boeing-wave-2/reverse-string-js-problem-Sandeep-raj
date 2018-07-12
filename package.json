@@ -15,7 +15,9 @@
   ],
   "author": "Nishant Jain",
   "license": "ISC",
-  "dependencies": {},
+  "dependencies": {
+    "lint": "^1.1.2"
+  },
   "devDependencies": {
     "eslint": "^5.0.1",
     "eslint-config-airbnb-base": "^13.0.0",
